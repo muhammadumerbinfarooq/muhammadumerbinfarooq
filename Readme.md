@@ -1,6 +1,6 @@
 <h3>A passionate Information Technology Technician.</h3>
 
-- 🔭 I’m currently working as ITT-1 in [PAKISTAN FWO](https://onenetwork.pk)
+- 🔭 I’m currently working as ITT-1 in [Pakistan Frontier Works Organization FWO](https://onenetwork.pk)
 
 - 🌱 I’m currently learning **ML , Advanced Flutter and DSA**
 
