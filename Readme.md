@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **ML , Advanced Flutter and DSA**
 
-- 📄 Know about my experiences ["CV"](https://drive.google.com/file/d/1DzZoxzDZf5ZvmElr4NvpGr8Ny6xOQMkw/view?usp=drivesdk)
+- 📄 Know about my experiences ["CV"](https://drive.google.com/file/d/1I_yDfXHVfIwNnPCFKdMb0PqGR996QnUA/view?usp=drive_link)
 
 - Contact me through [" Email "](mumermemon312@gmail.com)
 
