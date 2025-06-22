@@ -1,6 +1,6 @@
 <h3>A passionate Information Technology Technician.</h3>
 
-- 🔭 I’m currently working as ITT-1 in [ONE NETWORK Pvt Ltdl](https://onenetwork.pk)
+- 🔭 I’m currently working as IT Technician in [ONE NETWORK Pvt Ltd](https://onenetwork.pk)
 
 - 🌱 I’m currently learning **ML , Advanced Flutter and DSA**
 
